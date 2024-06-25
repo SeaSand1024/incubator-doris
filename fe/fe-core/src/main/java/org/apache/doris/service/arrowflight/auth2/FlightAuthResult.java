@@ -21,6 +21,7 @@ package org.apache.doris.service.arrowflight.auth2;
 import org.apache.doris.analysis.UserIdentity;
 
 import org.immutables.value.Value;
+import org.apache.doris.service.arrowflight.auth2.ImmutableFlightAuthResult;
 
 /**
  * Result of Authentication.

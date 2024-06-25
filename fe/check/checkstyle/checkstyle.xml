@@ -45,7 +45,7 @@ under the License.
         <property name="eachLine" value="true"/>
     </module>
     <module name="Header">
-        <property name="headerFile" value="check/checkstyle/checkstyle-apache-header.txt"/>
+        <property name="headerFile" value="/Users/chenchen/CLionProjects/incubator-doris/fe/check/checkstyle/checkstyle-apache-header.txt"/>
         <property name="fileExtensions" value="java"/>
     </module>
     <module name="LineLength">
@@ -161,7 +161,7 @@ under the License.
             <property name="tokens" value="IMPORT, STATIC_IMPORT, PACKAGE_DEF"/>
         </module>
         <module name="ImportControl">
-            <property name="file" value="check/checkstyle/import-control.xml"/>
+            <property name="file" value="/Users/chenchen/CLionProjects/incubator-doris/fe/check/checkstyle/import-control.xml"/>
         </module>
         <module name="RedundantImport"/>
         <module name="UnusedImports"/>
